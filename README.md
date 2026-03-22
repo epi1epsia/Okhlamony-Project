@@ -17,7 +17,7 @@
 - Метод: Контекстный поиск (Retrieval-Augmented Generation)
 
     Инструкция по запуску
-1. Склонируйте репозиторий: "git clone [ссылка]"
+1. Склонируйте репозиторий: git clone https://github.com/epi1epsia/Okhlamony-Project.git
 2. Установите зависимости: "pip install -r requirements.txt"
 3. Создайте файл ".env" в корневой папке и добавьте свои API-ключи (см. ".env.example").
 4. Поместите книги в формате ".txt" в папку "books/".
