@@ -1,0 +1,4 @@
+aiogram
+gigachat
+python-dotenv
+aiohttp
